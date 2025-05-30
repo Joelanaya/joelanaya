@@ -1,16 +1,16 @@
-## Hi there 👋
+<!-- README de Joel Anaya -->
 
-<!--
-**Joelanaya/joelanaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Importar fuente retro estilo videojuego -->
+<div align="center">
+  <h1 style="font-family: 'Press Start 2P', cursive; font-size: 20px;">
+    Hello, I am Joel Anaya, creator of Program Byte 🌠
+  </h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+> ✨ *Con la programación podemos crear todo lo que imaginemos, incluso aquello que parecía imposible.  
+Tal vez de eso se trata: la programación es una forma genial de darle vida a nuestras ideas...*  
+>
+> — **Joel Anaya**
+
