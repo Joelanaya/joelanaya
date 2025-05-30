@@ -14,3 +14,18 @@ Tal vez de eso se trata: la programación es una forma genial de darle vida a nu
 >
 > — **Joel Anaya**
 
+
+> ### 🛠️ TECHNOLOGIES
+
+[![Lenguajes y Frameworks](https://skillicons.dev/icons?i=bash,cs,kotlin,java,py,html,css,js,dotnet,github,git&theme=dark)](https://skillicons.dev)
+
+> ### 🛠️ IDE & TOOLS 
+
+[![IDE y Herramientas](https://skillicons.dev/icons?i=visualstudio,vscode,git,github,androidstudio,vim&theme=dark)](https://skillicons.dev)
+
+### 🛠️ SYSTEMS
+
+[![Sistemas](https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,debian,&theme=dark)](https://skillicons.dev)
+
+
+
