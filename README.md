@@ -21,7 +21,7 @@ Tal vez de eso se trata: la programación es una forma genial de darle vida a nu
 
 > ### 🛠️ IDE & TOOLS 
 
-[![IDE y Herramientas](https://skillicons.dev/icons?i=visualstudio,vscode,git,github,androidstudio,vim&theme=dark)](https://skillicons.dev)
+[![IDE y Herramientas](https://skillicons.dev/icons?i=visualstudio,vscode,git,github,androidstudio,vim,xd&theme=dark)](https://skillicons.dev)
 
 ### 🛠️ SYSTEMS
 
