@@ -29,4 +29,14 @@ Tal vez de eso se trata: la programación es una forma genial de darle vida a nu
 [![Sistemas](https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,debian,&theme=dark)](https://skillicons.dev)
 
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/josedavd-07">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Joelanaya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Joelanaya&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+
 
