@@ -3,7 +3,7 @@
 <!-- Importar fuente retro estilo videojuego -->
 <div align="center">
   <h1 style="font-family: 'Press Start 2P', cursive; font-size: 20px;">
-    Hello, I'm Joel Anaya, creator of Program Byte 🌠
+    Hi everyone, I'm Joel Anaya, creator of Program Byte 🌠
   </h1>
 
   <img src="banner_program_byte.gif" alt="banner" style="width: auto; margin-top: 10px;" />
