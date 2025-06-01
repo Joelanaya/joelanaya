@@ -32,7 +32,7 @@ Tal vez de eso se trata: la programación es una forma genial de darle vida a nu
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/josedavd-07">
+  <a href="https://github.com/Joelanaya">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Joelanaya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Joelanaya&layout=compact&langs_count=8&theme=algolia"/>
   </a>
